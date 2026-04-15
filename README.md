@@ -18,7 +18,8 @@ api请求方法：https://klingai.com/document-api/apiReference/model/multiEleme
 
 - Apifox Secret = Kling API Secret Key
 
-- ``` python
+-
+``` python
 "iss": ak,
 "exp": int(time.time()) + 1800, # 有效时间，此处示例代表当前时间+1800s(30min)
 "nbf": int(time.time()) - 5 # 开始生效的时间，此处示例代表当前时间-5秒
