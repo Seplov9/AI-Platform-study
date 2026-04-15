@@ -16,9 +16,9 @@ api请求方法：https://klingai.com/document-api/apiReference/model/multiEleme
 #### 配置JWT认证
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/c08e15c6-e7ed-45ca-b0a1-c31d8c9480ff" />
 
-Apifox Secret = Kling API Secret Key
+- Apifox Secret = Kling API Secret Key
 
-``` python
+- ``` python
 "iss": ak,
 "exp": int(time.time()) + 1800, # 有效时间，此处示例代表当前时间+1800s(30min)
 "nbf": int(time.time()) - 5 # 开始生效的时间，此处示例代表当前时间-5秒
