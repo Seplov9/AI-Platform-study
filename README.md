@@ -28,4 +28,5 @@ api请求方法：https://klingai.com/document-api/apiReference/model/multiEleme
 #### 配置API
 <img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/5e6771f1-07c2-4fd7-ab92-ffcc3f3f3308" />
 
-
+### 配置URL
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/6acd627f-e0ef-40d7-9b0c-284fc194ce3f" />
