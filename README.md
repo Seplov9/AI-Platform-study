@@ -30,3 +30,8 @@ api请求方法：https://klingai.com/document-api/apiReference/model/multiEleme
 
 #### 配置URL
 <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/6acd627f-e0ef-40d7-9b0c-284fc194ce3f" />
+
+## viggle
+网址：https://viggle.ai/app/home
+
+## midjourney
